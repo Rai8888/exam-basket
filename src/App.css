@@ -1,0 +1,39 @@
+body {
+  background-image: url('https://catherineasquithgallery.com/uploads/posts/2021-02/1614343491_62-p-fon-knigi-svetlii-80.jpg');
+  background-repeat: repeat;
+  background-size:cover;
+}
+
+.header-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(180, 4, 4) ;
+  padding: 10px;
+  margin-bottom: 55px;
+  background-color: rgb(182, 175, 165);
+}
+.card-text{
+  display: flex;
+  justify-content: center;
+
+}
+
+.basket-link {
+  text-decoration: none;
+}
+
+.book {
+  background-color: rgb(230, 212, 190);
+  display: flex;
+  border: 1px solid black;
+  padding: 15px;
+  margin-top: 30px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.book img {
+  width: 150px;
+  margin: 0 25px ;
+}
